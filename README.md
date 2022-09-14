@@ -19,13 +19,9 @@ The data is unbalanced too much, I made testing with oversampling but didn't mak
 0 = customer won't desactive || 1 = customer will desactive
 
 Random Forest: accuracy = 92% | precision class 1 = 83% | precision class 0 = 93%
-
 Gradient Boosting: accuracy = 93% | precision class 1 = 88% | precision class 0 = 94%
-
 KNN: accuracy = 89% | precision class 1 = 83% | precision class 0 = 91%
-
 Naive Bayes: accuracy = 83%
-
 Logistic Regression : accuracy = 84%
 
 
